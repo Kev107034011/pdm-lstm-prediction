@@ -15,7 +15,7 @@ All data comes from [C-MAPSS Aircraft Engine Simulator Data](https://data.nasa.g
 Mainly referenced the preprocess methods from [GitHub](https://github.com/umbertogriffo/Predictive-Maintenance-using-LSTM) and [Kaggle](https://www.kaggle.com/code/phamvanvung/cmapss)
 
 ## Alogirthms
-- Stacked Multiple Bidirectional LSTM layer with Attention layer to build the prediction model.
+- Stacked Multiple Bidirectional LSTM layers with Attention layer to build the prediction model.
 - Utilized Optuna with TPESampler to **automatically optimize hyperparameters**, including Learning Rate, Number of Layers, Nodes, Dropout Rates,etc.
 
 ## Code
