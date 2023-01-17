@@ -12,7 +12,7 @@ The goal is to predict the Remaining Useful Life(RUL) of each type of machines.
 All data comes from [C-MAPSS Aircraft Engine Simulator Data](https://data.nasa.gov/dataset/C-MAPSS-Aircraft-Engine-Simulator-Data/xaut-bemq) with noise features added.
 
 ## Data Preprocess
-Mainly referenced the preprocess methods from [GitHub](https://github.com/umbertogriffo/Predictive-Maintenance-using-LSTM) and [Kaggle](https://www.kaggle.com/code/phamvanvung/cmapss)
+Mainly referenced the preprocess methods from [umbertogriffo](https://github.com/umbertogriffo/Predictive-Maintenance-using-LSTM) and [PHAM VAN VUNG](https://www.kaggle.com/code/phamvanvung/cmapss)
 
 ## Alogirthms
 - Stacked Multiple Bidirectional LSTM layers with Attention layer to build the prediction model.
