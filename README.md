@@ -1,4 +1,4 @@
-# Predictive Maintenance using Bidirectional-LSTM with Attention Layer
+# Predictive Maintenance(PdM) using Bidirectional-LSTM with Optuna
 ## Dataset Introduction
 
 Maintenance strategy can mainly be categorized into 3 strategies, Run-to-Failure (R2F), Preventive maintenance (PvM), and Predictive maintenance (PdM).
